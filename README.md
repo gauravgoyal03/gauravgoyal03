@@ -14,7 +14,7 @@ My work sits at the intersection of:
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a results-driven engineer with experience designing and deploying:
 
@@ -28,7 +28,7 @@ I enjoy taking projects from **idea → architecture → deployment → business
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 `Python` `SQL` `Java` `JavaScript` `C` `R`
@@ -50,7 +50,7 @@ I enjoy taking projects from **idea → architecture → deployment → business
 
 ---
 
-## 📌 What I’m Focused On
+## What I’m Focused On
 
 - Building **production-ready AI/ML systems**
 - Designing **scalable cloud data pipelines**
@@ -74,7 +74,7 @@ Here are some of the areas reflected in my repositories:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - **LinkedIn:** [gauravgoyal03](https://www.linkedin.com/in/gauravgoyal03)
 - **Company:** [Goyal Analytics Group](https://www.linkedin.com/company/goyalanalytics)
@@ -82,7 +82,7 @@ Here are some of the areas reflected in my repositories:
 
 ---
 
-## 📈 GitHub Goals
+## GitHub Goals
 
 I'm using GitHub to showcase work in:
 
@@ -93,7 +93,7 @@ I'm using GitHub to showcase work in:
 
 ---
 
-## 🤝 Open To
+## Open To
 
 - Collaboration on **AI/ML and data engineering projects**
 - Consulting opportunities in:
